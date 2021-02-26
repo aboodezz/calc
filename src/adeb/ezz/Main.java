@@ -6,6 +6,6 @@ public class Main {
         System.out.println(5000+400);
         System.out.println(10);
 //        fknvkjdnfkvndfkg
-//        youssef is fishing
+
     }
 }
